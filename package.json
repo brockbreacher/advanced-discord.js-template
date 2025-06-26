@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A discord.js bot template",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^11.5.1"
